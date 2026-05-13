@@ -1,0 +1,47 @@
+time 1777897774
+new [description:"Ad Boost" entry:"1777897774" modified:"1777897774" status:"pending" uuid:"97bfbe2e-3938-4103-9117-7246c851508a"]
+---
+time 1777897794
+new [description:"contact wholesalers" entry:"1777897794" modified:"1777897794" status:"pending" uuid:"11acfaac-b734-4047-805c-d33bfb502fc8"]
+---
+time 1777897819
+new [description:"talk to tawfi9 daughter abt the design" entry:"1777897819" modified:"1777897819" status:"pending" uuid:"0414656b-c95a-4f72-a6bd-4398056f47ac"]
+---
+time 1777897904
+new [description:"visualize data" due:"1777849200" entry:"1777897904" modified:"1777897904" status:"pending" uuid:"b0373955-4d73-468c-9692-680ff4f05379"]
+---
+time 1777898086
+old [description:"visualize data" due:"1777849200" entry:"1777897904" modified:"1777897904" status:"pending" uuid:"b0373955-4d73-468c-9692-680ff4f05379"]
+new [description:"visualize data" due:"1777849200" end:"1777898086" entry:"1777897904" modified:"1777898086" status:"completed" uuid:"b0373955-4d73-468c-9692-680ff4f05379"]
+---
+time 1777898144
+new [description:"Uopeople Assignments" entry:"1777898144" modified:"1777898144" status:"pending" uuid:"4d68652f-cff5-4ea5-8ba7-ee33f4b672fd"]
+---
+time 1778166882
+old [description:"Uopeople Assignments" entry:"1777898144" modified:"1777898144" status:"pending" uuid:"4d68652f-cff5-4ea5-8ba7-ee33f4b672fd"]
+new [description:"Uopeople Assignments" end:"1778166882" entry:"1777898144" modified:"1778166882" status:"completed" uuid:"4d68652f-cff5-4ea5-8ba7-ee33f4b672fd"]
+---
+time 1778194597
+new [description:"Uopeople Homework" entry:"1778194597" modified:"1778194597" status:"pending" uuid:"a4bb1d89-0797-44f5-b373-aa5c78d8b525"]
+---
+time 1778522434
+new [description:"Calling CCIAF for Hritani" entry:"1778522434" modified:"1778522434" status:"pending" uuid:"3c1609ca-4c8b-46f7-ad72-d44dd9644f88"]
+---
+time 1778522465
+new [description:"Meeting with Hritani - me and mounir for AI" entry:"1778522465" modified:"1778522465" status:"pending" uuid:"f96442c5-fc0c-4279-b835-fff6aa8a792b"]
+---
+time 1778522509
+new [description:"Searching for Land in Bouira for Hritani - ard sina3iya 2000 - 3000" entry:"1778522509" modified:"1778522509" status:"pending" uuid:"3fd79053-6ea7-4262-ae77-00c5f045776a"]
+---
+time 1778522538
+new [description:"Send Mohammed Eid Office Nespresso Machines" entry:"1778522538" modified:"1778522538" status:"pending" uuid:"7d41ca6e-35e5-4be1-8426-4709230aa1ba"]
+---
+time 1778522576
+new [description:"Lawyer for Mounir" entry:"1778522576" modified:"1778522576" status:"pending" uuid:"f49353b4-a07c-441b-b03a-b7d475d9f7da"]
+---
+time 1778522611
+new [description:"Ad Boost 2 for SY Ecommerce" entry:"1778522611" modified:"1778522611" status:"pending" uuid:"a55f4184-47be-4978-8c9e-e78e2584aa56"]
+---
+time 1778522630
+new [description:"GS1 fixing" entry:"1778522630" modified:"1778522630" status:"pending" uuid:"b1edbfd3-a8be-4281-8f1b-f8b3f4ee31bc"]
+---
