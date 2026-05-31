@@ -91,3 +91,11 @@ new [description:"hello" entry:"1780242985" modified:"1780242985" status:"pendin
 time 1780243191
 new [description:"fkkf" entry:"1780243191" modified:"1780243191" status:"pending" uuid:"107d0411-bc6e-406e-91d4-001ee7bf804a"]
 ---
+time 1780243229
+old [description:"hello" entry:"1780242985" modified:"1780242985" status:"pending" uuid:"4dfd8e4d-1509-4732-ae0c-26f57b061094"]
+new [description:"hello" end:"1780243229" entry:"1780242985" modified:"1780243229" status:"completed" uuid:"4dfd8e4d-1509-4732-ae0c-26f57b061094"]
+---
+time 1780243241
+old [description:"fkkf" entry:"1780243191" modified:"1780243191" status:"pending" uuid:"107d0411-bc6e-406e-91d4-001ee7bf804a"]
+new [description:"fkkf" end:"1780243241" entry:"1780243191" modified:"1780243241" status:"completed" uuid:"107d0411-bc6e-406e-91d4-001ee7bf804a"]
+---

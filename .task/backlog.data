@@ -27,3 +27,5 @@
 {"description":"Call Andrew Also Comixia for him","entry":"20260529T130516Z","modified":"20260529T130516Z","status":"pending","uuid":"74c0e6cd-0aeb-4baa-b3b7-ba831653fb70"}
 {"description":"hello","entry":"20260531T155625Z","modified":"20260531T155625Z","status":"pending","uuid":"4dfd8e4d-1509-4732-ae0c-26f57b061094"}
 {"description":"fkkf","entry":"20260531T155951Z","modified":"20260531T155951Z","status":"pending","uuid":"107d0411-bc6e-406e-91d4-001ee7bf804a"}
+{"description":"hello","end":"20260531T160029Z","entry":"20260531T155625Z","modified":"20260531T160029Z","status":"completed","uuid":"4dfd8e4d-1509-4732-ae0c-26f57b061094"}
+{"description":"fkkf","end":"20260531T160041Z","entry":"20260531T155951Z","modified":"20260531T160041Z","status":"completed","uuid":"107d0411-bc6e-406e-91d4-001ee7bf804a"}
