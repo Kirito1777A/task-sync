@@ -145,3 +145,10 @@ new [description:"talk to mounir about AI in factory" entry:"1780853408" modifie
 time 1780853418
 new [description:"Hritani AI cameras Mall" entry:"1780853418" modified:"1780853418" status:"pending" uuid:"9fe7c6af-5905-4661-8780-3f74d0fe6ba9"]
 ---
+time 1780943849
+old [description:"GS1 fixing" entry:"1778522630" modified:"1778522630" status:"pending" uuid:"b1edbfd3-a8be-4281-8f1b-f8b3f4ee31bc"]
+new [description:"GS1 fixing" end:"1780943849" entry:"1778522630" modified:"1780943849" status:"completed" uuid:"b1edbfd3-a8be-4281-8f1b-f8b3f4ee31bc"]
+---
+time 1780943881
+new [description:"GS1 G14 Cartoon and palete" entry:"1780943880" modified:"1780943880" status:"pending" uuid:"410da19f-16a5-4c08-8e60-de7e01c0382c"]
+---
