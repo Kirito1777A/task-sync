@@ -152,3 +152,6 @@ new [description:"GS1 fixing" end:"1780943849" entry:"1778522630" modified:"1780
 time 1780943881
 new [description:"GS1 G14 Cartoon and palete" entry:"1780943880" modified:"1780943880" status:"pending" uuid:"410da19f-16a5-4c08-8e60-de7e01c0382c"]
 ---
+time 1780943937
+new [description:"Game Dev Brainstorming" entry:"1780943937" modified:"1780943937" status:"pending" uuid:"ee10a352-921b-4fa2-b716-319c42950882"]
+---
